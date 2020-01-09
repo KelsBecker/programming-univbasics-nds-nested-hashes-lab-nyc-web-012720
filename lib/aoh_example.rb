@@ -18,11 +18,11 @@ def literal_aoh
     {:name => "Joelle van Dyne", :occupation => "Radio Personality"}
     {:name => "Pat Monteseian", :occupation => "Staff"}
     {:name => "Kate Gompert", :occupation => "None"}
-    
+    {:name => "Bruce Green", :occupation => "Fan of Mildred" }
     ]
+end
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
-end
 
 def aoh_lookup(aoh, row, key)
 end
